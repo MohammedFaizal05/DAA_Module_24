@@ -7,7 +7,7 @@ To Solve Travelling Sales man Problem for the following graph.
 
 
 
-## Algorithm
+## Algorithm:
 1. Initialize Variables:
 
     vertex[]: List of cities except the starting city s.
