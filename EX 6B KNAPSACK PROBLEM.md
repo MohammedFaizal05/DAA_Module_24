@@ -48,7 +48,6 @@ Register Number:  212222100027
 ```
 ```PYTHON
 def knapSack(W, wt, val, n):
-    ########## Add your code here #########
     if n==0 or W==0:
         return 0
     if wt[n-1]>W:
